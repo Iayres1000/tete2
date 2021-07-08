@@ -1,2 +1,4 @@
 # tete2
- cria segundo repositorio para afixação de aprendisado 
+ criar segundo repositorio para afixação de aprendisado 
+ foi mandando um teste para o git hub
+ 
